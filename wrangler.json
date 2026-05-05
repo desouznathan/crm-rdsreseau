@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "crm-rdsreseau",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a62806cd-cedb-40ca-a081-f8186c30f7d9",
+			"database_name": "crm-rdsreseau"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
